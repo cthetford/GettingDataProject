@@ -31,7 +31,10 @@ activity_label - description of activity
  -  3 WALKING_DOWNSTAIRS                                                                                                                
  - 4 SITTING                                                                                                                           
  -  5 STANDING                                                                                                                          
- - 6 LAYING                                                                                                                            
+ - 6 LAYING                                                                                                                  
+ 
+ 
+
 subject - a number 1-30 identifying a participant in the study                                                                         
 001 tBodyAcc-mean()-X         - the average value of the sampled tBodyAcc-mean()-X value for the given subject and activity            
 002 tBodyAcc-mean()-Y         - the average value of the sampled tBodyAcc-mean()-Y value for the given subject and activity            
