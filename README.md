@@ -1,6 +1,6 @@
 # Getting Data Project
 
-# Code description
+## Code description
 
 This code will read the accelerometer raw data and combine it to produce a tidy dataset.  The code consists of the following steps:
 1. check to see if the data file exists and download it if necessary.
@@ -21,3 +21,5 @@ This code will read the accelerometer raw data and combine it to produce a tidy 
  - we only have one "kind" of data and it is all in one table
  
 8. last we write the data to a file.
+
+## Code Book
